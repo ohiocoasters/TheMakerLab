@@ -21,7 +21,7 @@ body {
 /* Start Landing Page */
 
 .bolt {
-    height: 50px;
+    height: 70px;
 }
 
 .landing-page {
@@ -39,7 +39,7 @@ body {
     text-transform: uppercase;
     font-style: italic;
     margin-top: 10px;
-    font-size: 19px;
+    font-size: 25px;
     width: 300px;
     color: #5d5d5d;
 }
@@ -47,7 +47,8 @@ body {
 .landing-page .header-area .links {
     list-style: none;
     font-family: 'Staatliches', cursive;
-    padding-top: 10px;
+    font-size: 16pt;
+    padding-top: 15px;
     margin: 0;
     width: 100%;
     text-align: right;
@@ -194,21 +195,6 @@ body {
 .svcs{
     height: 50%;
     background-color: #6699ff;
+    box-sizing: border-box;
 }
 
-.card {
-    
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    width: 200px;
-    border-radius: 5px;
-  }
-  
-  .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-  }
-  
-  img {
-    border-radius: 5px 5px 0 0;
-  }
-  
